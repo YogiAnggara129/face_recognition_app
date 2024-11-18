@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289471448581",
+    "project_id": "face-recognition-app-44796",
+    "storage_bucket": "face-recognition-app-44796.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289471448581:android:bd6c6d9e0b9f3390de7e6c",
+        "android_client_info": {
+          "package_name": "com.example.face_recognition_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHj6U8aN3BFn3SNG9pI9hnqXjI8v0k3yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
